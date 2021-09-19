@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fujinugraha16
 - 👀 I’m interested in programming and love Javascript family
 - 📫 How to reach me 
-- linkedin.com/in/fujinugraha
+- www.linkedin.com/in/fujinugraha
 - collaborate/bussiness: fujinugraha16@gmail.com
 
 <!---
